@@ -11,7 +11,7 @@ The Weather Warden is a web application that provides users with up-to-date weat
 * The application also provides a seven-day weather forecast for the location.
 * Weather jokes are displayed every 7 seconds.
 * Random cities forecast is displayed.
-* On page reload application retrives last search location and displays its current weather information.
+* On page reload application retrieves the last search location and displays its current weather information.
 * The icons used to display weather conditions are easy to understand and visually appealing.
 * The application is responsive and can be used on different screen sizes.
 
@@ -24,11 +24,11 @@ The Weather Warden is built using HTML, CSS, and JavaScript. It uses APIs from O
 
 ## Author
 
-My name is Avinash Tallapaneni, and I am a front-end web developer based in Chennai, India. I am passionate about coding and building applications that make a difference in people's lives.
+My name is Kumili Ganesh, and I am a front-end web developer based in Chennai, India. I am passionate about coding and building applications that make a difference in people's lives.
 
 - Website - [Preview site on netlify](https://weather-warden.netlify.app/)
 - Twitter - [@TallapaneniAvi](https://www.twitter.com/TallapaneniAvi)
 
 ## Got feedback?
 
-i love receiving feedback! So if you have anything you'd like to mention, please email avinashtallapaneni[at]gmail[dot]com or message me on socials
+I love receiving feedback! So if you have anything you'd like to mention, please email avinashtallapaneni[at]gmail[dot]com or message me on socials
